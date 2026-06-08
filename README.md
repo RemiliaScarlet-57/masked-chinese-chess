@@ -82,11 +82,3 @@ masked-chinese-chess/
 ├── package.json
 └── vite.config.ts
 ```
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 📄 许可证
-
-MIT License
