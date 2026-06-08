@@ -1,7 +1,7 @@
 {
   "name": "masked-chinese-chess",
   "version": "1.0.0",
-  "description": "象棋揭棋最优解计算器",
+  "description": "一个现代化的中国象棋揭棋游戏，具有强大的 AI 对手、分数评估和 FEN 导入导出功能",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
